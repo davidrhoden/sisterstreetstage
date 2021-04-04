@@ -74,7 +74,6 @@ footer a {
 
 /* Header Nav */
 header nav ul {
-	margin: 0;
 	padding: 0;
 	list-style: none;
 }
@@ -85,11 +84,6 @@ header nav ul :first-child {
 
 header nav li {
 	display: inline-block;
-	margin: 0;
-}
-
-header nav li a {
-	padding: 0 .5em 0 0 ;
 }
 
 header nav li a[href]:not(:hover) {
