@@ -1,33 +1,18 @@
 ---
-title: About us
-metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.desciption will be used instead.
-date: 2017-01-01T00:00:00.000Z
+title: About Sister Street Stage
+metaDescription: Sister Street Stage is an outdoor stage and event space at 819 Sister Street in New Orleans, Louisiana.
+date: 2021-04-04T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
-fruit  
+Sister Street Stage is an outdoor stage and event space at 819 Sister Street (corner of Dauphine) in the Lower Ninth Ward of New Orleans, Louisiana. 
 
-## Our services
+The location is adjacent to the levee where the Industrial Canal shipping channel meets the Mississippi River. You can sit on the top of the levee and watch the show and watch the ships go by at the same time.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+The space is simply a large yard with a covered wooden stage. Originally built to host a wedding, the stage has since been used to showcase New Orleans' local music.
 
-### Blue-sky thinking
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-#### Management frameworks
-
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-##### Regulatory convergence
-
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3456.6467230254107!2d-90.02924578488687!3d29.960838681912865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8620a7c5697eac91%3A0xa872a36130951c92!2s819%20Sister%20St%2C%20New%20Orleans%2C%20LA%2070117!5e0!3m2!1sen!2sus!4v1617552768449!5m2!1sen!2sus" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>

@@ -1,7 +1,7 @@
 :root {
-	--primary: blue;
-	--secondary: white;
-	--background: #FFF0EB;
+	--primary: white;
+	--secondary: orangered;
+	--background: black;
 }
 
 *, *:before, *:after {
@@ -12,7 +12,7 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-	font-family: "Avenir", "Avenir Next", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+	font-family: 'Cardo', serif;
 }
 
 body {
@@ -20,21 +20,30 @@ body {
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
 	background-color: var(--background);
+	color: var(--primary);
+}
+
+h1 {
+	color: var(--secondary);
+	font-family: Ultra, serif;
+	text-transform: uppercase;
 }
 
 main {
+	margin: 0 auto;
 	max-width: 37.5em;
+	min-width: 50%;
 }
 
-p,
-pre,
-code {
+p {
 	line-height: 1.5;
 }
 
+small {font-size: .5rem;}
+
 a[href],
 a[href]:visited {
-	color: var(--primary);
+	color: var(--secondary);
 }
 
 a[href]:not(:hover) {
@@ -52,43 +61,24 @@ footer {
 	padding: 1em;
 }
 
-main {
-	padding-bottom: 2em;
+header {
+	display: flex;
+	justify-content: space-between;
 }
 
-main :first-child,
-main > article :first-child {
-	margin-top: 0;
+footer {
+	color: var(--primary);
+	text-align: center;
+	text-transform: uppercase;
 }
 
-pre {
-	font-size: 14px;
-	direction: ltr;
-	text-align: left;
-	white-space: pre;
-	word-spacing: normal;
-	word-break: normal;
-	-moz-tab-size: 2;
-	tab-size: 2;
-	-webkit-hyphens: none;
-	-moz-hyphens: none;
-	-ms-hyphens: none;
-	hyphens: none;
-	padding: 1em;
-	margin: .5em 0;
-}
-
-/* Header Logo (style as h2) */
-header > em {
-	display: block;
-	font-size: 2em;
-	margin: .67em 0;
-	font-weight: bold;
-	font-style: normal;
+footer a {
+	color: var(--secondary);
 }
 
 /* Header Nav */
 header nav ul {
+	margin: 0;
 	padding: 0;
 	list-style: none;
 }
@@ -99,12 +89,11 @@ header nav ul :first-child {
 
 header nav li {
 	display: inline-block;
-	margin: 0 .25em;
+	margin: 0;
 }
 
 header nav li a {
-	padding: .25em .5em;
-	border-radius: .25em;
+	padding: 0 .5em;
 }
 
 header nav li a[href]:not(:hover) {
@@ -112,7 +101,7 @@ header nav li a[href]:not(:hover) {
 }
 
 header nav li a[data-current="current item"] {
-	background-color: white;
+	color: var(--primary);
 }
 
 /* Posts List */
@@ -174,7 +163,7 @@ button {
   padding: 1em;
   margin-bottom: 1em;
 	font-size: 1rem;
-	font-family: "Avenir", "Avenir Next", sans-serif;
+	font-family: sans-serif;
 }
 
 input,
