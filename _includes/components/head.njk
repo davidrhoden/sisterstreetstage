@@ -3,13 +3,7 @@
   <link rel="dns-prefetch" href="https://identity.netlify.com">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ renderData.title or title or metadata.title }}</title>
-  <meta property="og:title" content="{{ renderData.title or title or metadata.title }}">
   <meta name="description" content="{{ metaDescription or renderData.metaDescription or metadata.description }}">
-  <meta property="og:description" content="{{ metaDescription or renderData.metaDescription or metadata.description }}">
-  <meta property="og:image" content="{{ metadata.url }}/static/img/SisterStreetStage-Apr-17-2021a.jpg">
-  <meta property="og:url" content="{{ metadata.url }}">
-  <meta property="og:type" content="website">
-  <meta name="twitter:card" content="summary_large_image">
   <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {% set css %}
     {% include "assets/css/inline.css" %}
