@@ -8,7 +8,8 @@
   <meta property="og:description" content="{{ metaDescription or renderData.metaDescription or metadata.description }}">
   <meta property="og:image" content="{{ metadata.url }}/static/img/SisterStreetStage-Apr-17-2021a.jpg">
   <meta property="og:url" content="{{ metadata.url }}">
-  <meta property="twitter:image" content="{{ metadata.url }}/static/img/SisterStreetStage-Apr-17-2021a.jpg">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
   <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {% set css %}
     {% include "assets/css/inline.css" %}
@@ -17,7 +18,6 @@
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Cardo&family=Ultra&display=swap" rel="stylesheet">
-  og:image  https://sisterstreetstage.com/static/img/SisterStreetStage-Apr-17-2021a.jpg
   {% set js %}
     {% include "assets/js/inline.js" %}
   {% endset %}
