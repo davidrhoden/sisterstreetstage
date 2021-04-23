@@ -8,4 +8,4 @@ eleventyNavigation:
   order: 0
 ---
 
-![Sister Street Stage presents Regenerator, Golden Ray, and Lo Amps April 17, 2021](/static/img/SisterStreetStage-Apr-17-2021a.jpg "Sister Street Stage presents Regenerator, Golden Ray, and Lo Amps April 17, 2021")
+![Sister Street Stage presents George Wilde, Golden Ray, and Lo Amps April 17, 2021](/static/img/SisterStreetStage-Apr-17-2025.jpg "Sister Street Stage presents George Wilde, Golden Ray, and Lo Amps Sunday April 25, 2021")
