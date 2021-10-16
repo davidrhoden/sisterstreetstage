@@ -54,8 +54,14 @@ Close to sunset the levee filled up with spectators too.
 
 ![Malevitus at Sister Street Stage.](/static/img/holy-cross-music-nov-14-2020/social-distancing-crowd-nov-14-2020.jpg "Malevitus at Sister Street Stage.")
 
+![Malevitus at Sister Street Stage.](/static/img/holy-cross-music-nov-14-2020/art-car-at-hc-concert-nov-14-2020.jpg "Malevitus at Sister Street Stage.")
 
 <video controls loop style="max-width: 100%">
   <source type="video/mp4" src="/static/img/holy-cross-music-nov-14-2020/malevitus-art-car-nov-14-2020.mp4"></source>
+  <p>Your browser does not support the video element. Otherwise you'd be watching a video of Malevitus and an art car right now.</p>
+</video>
+
+<video controls loop style="max-width: 100%">
+  <source type="video/mp4" src="/static/img/holy-cross-music-nov-14-2020/malevitus-twilight-nov-14-2020.mp4"></source>
   <p>Your browser does not support the video element. Otherwise you'd be watching a video of Malevitus and an art car right now.</p>
 </video>
