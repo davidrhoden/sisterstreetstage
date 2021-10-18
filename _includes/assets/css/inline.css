@@ -12,6 +12,7 @@ html,
 body {
 	padding: 0;
 	margin: 0;
+	font-family: 'Cardo', serif;
 }
 
 body {
@@ -30,14 +31,20 @@ h1 {
 }
 
 main {
+	margin: 0 auto;
 	max-width: 37.5em;
+	min-width: 50%;
 }
 
+p {
 	line-height: 1.5;
 }
 
+small {font-size: .5rem;}
+
 a[href],
 a[href]:visited {
+	color: var(--secondary);
 }
 
 a[href]:not(:hover) {
@@ -61,6 +68,8 @@ footer {
 	text-transform: uppercase;
 }
 
+footer a {
+	color: var(--secondary);
 }
 
 /* Header Nav */
@@ -88,6 +97,7 @@ header nav li a[href]:not(:hover) {
 }
 
 header nav li a[data-current="current item"] {
+	color: var(--primary);
 }
 
 /* Posts List */
