@@ -1,5 +1,6 @@
 ---
 permalink: /about/index.html
+title: "About Sister Street Stage"
 eleventyNavigation:
   key: About
   order: 1

@@ -1,6 +1,6 @@
 ---
 layout: layouts/contact.njk
-title: Get in touch
+title: title: "Sister Street Stage :: Get in touch"
 section: contact
 permalink: /contact/index.html
 eleventyNavigation:
