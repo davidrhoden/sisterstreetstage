@@ -8,4 +8,4 @@ eleventyNavigation:
   order: 0
 ---
 
-![Gina Phillips band on the Sister Street Stage](/static/img/gina-band-on-stage.jpg)
+![November 12, 2022 on the Sister Street Stage](/static/img/sister-street-stage-nov-12-2022.jpg)
