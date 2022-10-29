@@ -3,6 +3,7 @@ title: "St. Lorelei, Regenerator, Bogue Chitto, Greg Schatz and the Friggin Geni
 date: 2022-11-12T17:00:00.000Z
 category: timeline
 image: sister-street-stage-nov-12-2022.jpg
+tags:
   - post 
   - St. Lorelei
   - Regenerator
@@ -10,7 +11,7 @@ image: sister-street-stage-nov-12-2022.jpg
   - Greg Schatz
   - the Friggin' Geniuses
   - Hannah KB
----
 
+---
 
 ![November 12, 2022 on the Sister Street Stage](/static/img/sister-street-stage-nov-12-2022.jpg)
