@@ -9,7 +9,7 @@ tags:
   - Regenerator
   - Bogue Chitto
   - Greg Schatz
-  - the Friggin' Geniuses
+  - the Friggin Geniuses
   - Hannah KB
 
 ---
