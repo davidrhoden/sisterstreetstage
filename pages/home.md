@@ -8,4 +8,4 @@ eleventyNavigation:
   order: 0
 ---
 
-![October 21, 2023 on the Sister Street Stage](/static/img/Sister-Street-Fest-oct-21-2023.webp)
+![October 21, 2023 on the Sister Street Stage](/static/img/Sister-Street-Fest.webp)
