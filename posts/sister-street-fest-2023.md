@@ -3,7 +3,7 @@ title: Sister Street Fest 2023
 date: 2023-10-21T14:00:00.000Z
 summary: Sister Street Fest 2023 happens Saturday, October 21, 2023.
 excerpt: Sister Street Fest 2023 happens Saturday, October 21, 2023.
-image: Sister-Street-Fest-2023.webp
+image: Sister-Street-Fest-2023.png
 tags:
   - post 
   - O-Pines
@@ -19,17 +19,17 @@ tags:
 
 ---
 
-![October 21, 2023 on the Sister Street Stage](/static/img/Sister-Street-Fest-2023.webp)
+![October 21, 2023 on the Sister Street Stage](/static/img/Sister-Street-Fest-2023.png)
 
 ---
 
 # Musical Acts
 
 [O-Pines](https://www.facebook.com/p/The-O-Pines-100063849859796/)
-The Royal Pendletons
+[The Royal Pendletons](https://www.discogs.com/artist/1205273-The-Royal-Pendletons)
 [Warren Byrom](https://warrenbyrom.bandcamp.com/)
 [Helen Gillet](https://www.helengillet.com/)
-George Wilde
+[George Wilde](https://www.youtube.com/@regenerator1104)
 [Sister Street Aces](https://www.instagram.com/sisterstreetaces)
 [Johnny Mastro and Mama's Boys](https://www.johnnymastro.com/) with [Sierra Green](https://sierragreen.net/)
 Lady Brett
@@ -45,8 +45,8 @@ Lady Brett
 ---
 
 # Food
-meatiepie
-La Wafe
+[meatiepie](https://www.instagram.com/meatiepie)
+[La Wafe](https://www.facebook.com/NolaWaffle)
 
 ---
 

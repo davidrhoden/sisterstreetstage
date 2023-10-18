@@ -8,17 +8,17 @@ eleventyNavigation:
   order: 0
 ---
 
-![October 21, 2023 on the Sister Street Stage](/static/img/Sister-Street-Fest-2023.webp)
+![October 21, 2023 on the Sister Street Stage](/static/img/Sister-Street-Fest-2023.png)
 
 ---
 
 # Musical Acts
 
 [O-Pines](https://www.facebook.com/p/The-O-Pines-100063849859796/)
-The Royal Pendletons
+[The Royal Pendletons](https://www.discogs.com/artist/1205273-The-Royal-Pendletons)
 [Warren Byrom](https://warrenbyrom.bandcamp.com/)
 [Helen Gillet](https://www.helengillet.com/)
-George Wilde
+[George Wilde](https://www.youtube.com/@regenerator1104)
 [Sister Street Aces](https://www.instagram.com/sisterstreetaces)
 [Johnny Mastro and Mama's Boys](https://www.johnnymastro.com/) with [Sierra Green](https://sierragreen.net/)
 Lady Brett
