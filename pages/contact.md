@@ -8,4 +8,6 @@ eleventyNavigation:
   order: 3
 ---
 
-Questions about the venue or an event? Fill out the form below and we'll answer as soon as we can.
+Questions about the venue?
+Interested in sponsoring an event?
+Fill out the form below and we'll answer as soon as we can.
