@@ -12,7 +12,7 @@ tags:
   - Helen Gillet
   - George Wilde
   - Sister Street Aces
-  - Johnny Mastro & Mama's Boys
+  - "Johnny Mastro & Mama's Boys"
   - Sierra Green
   - Lady Brett
   - Sister Street Fest
