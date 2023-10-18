@@ -1,15 +1,13 @@
 <head>
   <meta charset="utf-8">
-  <link rel="dns-prefetch" href="https://identity.netlify.com">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ renderData.title or title or metadata.title }}</title>
   <meta name="description" content="{{ metaDescription or renderData.metaDescription or metadata.description }}">
-  <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <meta property="og:image" content="https://sisterstreetstage.com/static/img/Sister-Street-Fest-2023.png" />
   {% set css %}
     {% include "assets/css/inline.css" %}
   {% endset %}
   <style>{{ css | cssmin | safe }}</style>
-  <link rel="preconnect" href="https://fonts.gstatic.com">
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Cardo&family=Ultra&display=swap" rel="stylesheet">
   {% set js %}

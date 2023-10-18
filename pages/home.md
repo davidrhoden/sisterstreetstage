@@ -2,6 +2,7 @@
 layout: layouts/home.njk
 title: "Sister Street Stage :: New Orleans Louisiana Outdoor Event Space"
 date: 2023-10-17T00:00:00.000Z
+image: https://sisterstreetstage.com/static/img/Sister-Street-Fest-2023.png
 permalink: /
 eleventyNavigation:
   key: Home
