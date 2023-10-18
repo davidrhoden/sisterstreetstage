@@ -3,7 +3,7 @@ title: Sister Street Fest 2023
 date: 2023-10-21T14:00:00.000Z
 summary: Sister Street Fest 2023 happens Saturday, October 21, 2023.
 excerpt: Sister Street Fest 2023 happens Saturday, October 21, 2023.
-image: https://sisterstreetstage.com/static/img/Sister-Street-Fest-2023.png
+image: Sister-Street-Fest-2023.png
 tags:
   - post 
   - O-Pines
