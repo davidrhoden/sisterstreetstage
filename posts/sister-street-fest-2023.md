@@ -38,6 +38,7 @@ Lady Brett
 
 # Sponsors
 
+[New Orleans Blues Society](https://neworleansbluessociety.com/)
 [Euclid Records](https://euclidrecordsneworleans.com/)
 [Bywater Bakery](https://www.bywaterbakery.com/)
 
