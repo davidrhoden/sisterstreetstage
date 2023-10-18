@@ -17,11 +17,13 @@ tags:
 
 ![October 21, 2023 on the Sister Street Stage](/static/img/Sister-Street-Fest.webp)
 
-O-Pines
+![October 21, 2023 on the Sister Street Stage](/static/img/Sister-Street-Fest.webp)
+
+[O-Pines](https://www.facebook.com/p/The-O-Pines-100063849859796/)
 The Royal Pendletons
-Warren Byrom
-Helen Gillet
+[Warren Byrom](https://warrenbyrom.bandcamp.com/)
+[Helen Gillet](https://www.helengillet.com/)
 George Wilde
-Sister Street Aces
-Johnny Mastro ans Mama's Boys with Sierra Green
+[Sister Street Aces](https://www.instagram.com/sisterstreetaces)
+[Johnny Mastro and Mama's Boys](https://www.johnnymastro.com/) with [Sierra Green](https://sierragreen.net/)
 Lady Brett
