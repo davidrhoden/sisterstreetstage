@@ -10,6 +10,8 @@ eleventyNavigation:
 
 ![October 21, 2023 on the Sister Street Stage](/static/img/Sister-Street-Fest-2023.webp)
 
+---
+
 # Musical Acts
 
 [O-Pines](https://www.facebook.com/p/The-O-Pines-100063849859796/)
@@ -33,3 +35,7 @@ Lady Brett
 # Food
 meatiepie
 La Wafe
+
+---
+
+Suggested Donation $20.
