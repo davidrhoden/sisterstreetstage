@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 0
 ---
 
-![October 21, 2023 on the Sister Street Stage](/static/img/Sister-Street-Fest.webp)
+![October 21, 2023 on the Sister Street Stage](/static/img/Sister-Street-Fest-2023.webp)
 
 [O-Pines](https://www.facebook.com/p/The-O-Pines-100063849859796/)
 The Royal Pendletons
