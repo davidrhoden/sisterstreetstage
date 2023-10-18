@@ -4,7 +4,9 @@
   <title>{{ renderData.title or title or metadata.title }}</title>
   <meta name="description" content="{{ metaDescription or renderData.metaDescription or metadata.description }}">
   <meta property="og:image" content="https://sisterstreetstage.com/static/img/Sister-Street-Fest-2023.png" />
-  {% set css %}
+  <meta property="og:title" content="{{ renderData.title or title or metadata.title }}" />
+  <meta name="og:description" content="{{ metaDescription or renderData.metaDescription or metadata.description }}">
+   {% set css %}
     {% include "assets/css/inline.css" %}
   {% endset %}
   <style>{{ css | cssmin | safe }}</style>
