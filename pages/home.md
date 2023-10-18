@@ -35,8 +35,8 @@ Lady Brett
 ---
 
 # Food
-meatiepie
-La Wafe
+[meatiepie](https://www.instagram.com/meatiepie)
+[La Wafe](https://www.facebook.com/NolaWaffle)
 
 ---
 
