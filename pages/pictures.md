@@ -10,25 +10,25 @@ eleventyNavigation:
 
 ![Regenerator, November 14, 2020](/static/img/holy-cross-music-nov-14-2020/regenerator-nov-14-2020.jpg?nf_resize=fit&w=1200 "Regenerator, November 14, 2020")
 
-![Souvenaires, November 14, 2020](/static/img/holy-cross-music-nov-14-2020/souvenaires-nov-14-2020.jpg?nf_resize=fit&w=300 "Souvenaires, November 14, 2020")
+![Souvenaires, November 14, 2020](/static/img/holy-cross-music-nov-14-2020/souvenaires-nov-14-2020.jpg?nf_resize=fit&w=1000 "Souvenaires, November 14, 2020")
 
-![Stoo Odom, November 14, 2020](/static/img/holy-cross-music-nov-14-2020/stoo-odom-nov-14-2020.jpg?nf_resize=fit&w=300 "Stoo Odom, November 14, 2020")
+![Stoo Odom, November 14, 2020](/static/img/holy-cross-music-nov-14-2020/stoo-odom-nov-14-2020.jpg?nf_resize=fit&w=1000 "Stoo Odom, November 14, 2020")
 
-![Art Car, November 14, 2020](/static/img/holy-cross-music-nov-14-2020/art-car-at-hc-concert-nov-14-2020.jpg?nf_resize=fit&w=300 "Art Car, November 14, 2020")
+![Art Car, November 14, 2020](/static/img/holy-cross-music-nov-14-2020/art-car-at-hc-concert-nov-14-2020.jpg?nf_resize=fit&w=1000 "Art Car, November 14, 2020")
 
-![Levee Spectators, November 14, 2020](/static/img/holy-cross-music-nov-14-2020/levee-watchers-and-clouds-nov-14-2020.jpg?nf_resize=fit&w=300 "Levee spectators, November 14, 2020")
+![Levee Spectators, November 14, 2020](/static/img/holy-cross-music-nov-14-2020/levee-watchers-and-clouds-nov-14-2020.jpg?nf_resize=fit&w=1000 "Levee spectators, November 14, 2020")
 
-![Levee Spectators, November 14, 2020](/static/img/holy-cross-music-nov-14-2020/sss-panorama-1.jpg?nf_resize=fit&w=300 "Levee spectators, November 14, 2020")
+![Levee Spectators, November 14, 2020](/static/img/holy-cross-music-nov-14-2020/sss-panorama-1.jpg?nf_resize=fit&w=1000 "Levee spectators, November 14, 2020")
 
-![Gina and band on stage](/static/img/gina-band-on-stage.jpg?nf_resize=fit&w=300 "Gina and band on stage")
+![Gina and band on stage](/static/img/gina-band-on-stage.jpg?nf_resize=fit&w=1000 "Gina and band on stage")
 
-![Golden Ray on stage](/static/img/golden-ray-03-apr-25-2021.jpg?nf_resize=fit&w=300 "Golden Ray on stage")
+![Golden Ray on stage](/static/img/golden-ray-03-apr-25-2021.jpg?nf_resize=fit&w=1000 "Golden Ray on stage")
 
-![Golden Ray on stage](/static/img/golden-ray-04-apr-25-2021.jpg?nf_resize=fit&w=300 "Golden Ray on stage")
+![Golden Ray on stage](/static/img/golden-ray-04-apr-25-2021.jpg?nf_resize=fit&w=1000 "Golden Ray on stage")
 
-![Lo Amps on stage](/static/img/lo-amps-katie-apr-25-2021.jpg?nf_resize=fit&w=300 "Lo Amps on stage")
+![Lo Amps on stage](/static/img/lo-amps-katie-apr-25-2021.jpg?nf_resize=fit&w=1000 "Lo Amps on stage")
 
-![A crowd on the ground, Sister Street Stage](/static/img/holy-cross-music-nov-14-2020/sss-panorama-2.jpg?nf_resize=fit&w=300 "A crowd on the ground, Sister Street Stage")
+![A crowd on the ground, Sister Street Stage](/static/img/holy-cross-music-nov-14-2020/sss-panorama-2.jpg?nf_resize=fit&w=1000 "A crowd on the ground, Sister Street Stage")
 
 ---
 
