@@ -19,7 +19,7 @@ tags:
 
 ---
 
-![October 21, 2023 on the Sister Street Stage](/static/img/Sister-Street-Fest-2023.png)
+![October 21, 2023 on the Sister Street Stage](/static/img/sister-street-fest-oct-21-2023/Sister-Street-Fest-2023-times.png)
 
 ---
 
@@ -30,9 +30,9 @@ tags:
 [Warren Byrom](https://warrenbyrom.bandcamp.com/)
 [Helen Gillet](https://www.helengillet.com/)
 [George Wilde](https://www.youtube.com/@regenerator1104)
-[Sister Street Aces](https://www.instagram.com/sisterstreetaces)
-[Johnny Mastro and Mama's Boys](https://www.johnnymastro.com/) with [Sierra Green](https://sierragreen.net/)
 Lady Brett
+[Johnny Mastro and Mama's Boys](https://www.johnnymastro.com/) with [Sierra Green](https://sierragreen.net/)
+[Sister Street Aces](https://www.instagram.com/sisterstreetaces)
 
 ---
 

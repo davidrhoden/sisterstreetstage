@@ -32,4 +32,4 @@ eleventyNavigation:
 
 ---
 
-If you have pictures from an event Sister Street Stage we can post, please (email them)[mailto:drr1000@gmail.com] to us (if we can have permission to post them here, with a credit to you.) Also, if you use Instagram, please post them with the hashtag #SisterStreetStage. We'd love to see them.
+If you have pictures from an event Sister Street Stage we can post, please [email them](mailto:drr1000@gmail.com) to us (if we can have permission to post them here, with a credit to you.) Also, if you use Instagram, please post them with the hashtag [#SisterStreetStage](https://www.instagram.com/explore/tags/sisterstreetstage). We'd love to see them.
