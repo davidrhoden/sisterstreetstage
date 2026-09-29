@@ -2,6 +2,7 @@
 	--primary: white;
 	--header: #7ac57a;
 	--secondary: #86c586;
+	--tertiary: #cfe344;
 	--background: #333333;
 }
 
@@ -32,6 +33,11 @@ h1 {
 	text-transform: uppercase;
 }
 
+h2 {
+	color: #cfe344;
+	font-weight: normal;
+}
+
 main {
 	margin: 0 auto;
 	max-width: 37.5em;
@@ -47,6 +53,11 @@ small {font-size: .5rem;}
 a[href],
 a[href]:visited {
 	color: var(--secondary);
+	transition: color .15s ease-in-out;
+}
+
+a[href]:hover {
+	color: var(--tertiary);
 }
 
 a[href]:not(:hover) {
