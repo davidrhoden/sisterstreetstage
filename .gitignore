@@ -3,6 +3,7 @@ node_modules/
 package-lock.json
 .DS_Store
 *.mov
+/support/
 
 # Local Netlify folder
 .netlify

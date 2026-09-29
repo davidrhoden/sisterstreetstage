@@ -1,6 +1,6 @@
 ---
 title: "Sister Street Fest 2026: October 17, 2026"
-date: 2026-10-21T00:00:00
+date: 2026-10-17T00:00:00
 excerpt: The Junior League, Side Yard, Warren Byrom, LAAB, Semi-Automatic Transmission
 image: sister-street-fest-oct-17-2026/poster-sister-street-stage-oct-17-2026.jpeg
 tags:

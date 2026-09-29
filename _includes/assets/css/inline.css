@@ -18,7 +18,7 @@ body {
 
 body {
 	display: grid;
-	height: 100vh;
+	min-height: 100vh;
 	grid-template-rows: auto 1fr auto;
 	background-color: var(--background);
 	color: var(--primary);
@@ -58,10 +58,25 @@ img {
 	height: auto;
 }
 
+[data-current="shows"] img {
+	max-width: 600px;
+	width: 100%;
+	display: block;
+	margin: 0 auto 1em;
+}
+
 header,
 main,
 footer {
 	padding: 1em;
+}
+
+header {
+	position: sticky;
+	top: 0;
+	background-color: #0c140c;
+	background-color: color-mix(in srgb, black 75%, var(--header));
+	z-index: 1;
 }
 
 footer {
