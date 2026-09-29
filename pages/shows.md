@@ -1,6 +1,6 @@
 ---
 layout: layouts/shows.njk
-title: "Sister Street Stage :: Shows"
+title: "Sister Street Stage - New Orleans, Louisiana - Shows"
 metaDescription: Shows that have taken place at Sister Streeet Stage, or news about upcoming shows.
 date: 2020-01-01
 permalink: /shows/index.html

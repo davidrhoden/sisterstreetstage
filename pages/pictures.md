@@ -1,6 +1,6 @@
 ---
 permalink: /pictures/index.html
-title: "Sister Street Stage - Pictures"
+title: "Sister Street Stage - New Orleans, Louisiana - Pictures"
 eleventyNavigation:
   key: Pictures
   order: 5

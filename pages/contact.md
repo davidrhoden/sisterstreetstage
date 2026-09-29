@@ -3,9 +3,7 @@ layout: layouts/contact.njk
 title: "Sister Street Stage :: Get in touch"
 section: contact
 permalink: /contact/index.html
-eleventyNavigation:
-  key: Contact
-  order: 3
+
 ---
 
 Questions about the venue?
