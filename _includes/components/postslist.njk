@@ -21,7 +21,11 @@
 				</p>
 			{% endif %}
 			{% if post.data.image %}
+				{% if post.data.image.startsWith("/") or post.data.image.startsWith("http") %}
+				<img src="{{ post.data.image }}">
+				{% else %}
 				<img src="/static/img/{{ post.data.image }}">
+				{% endif %}
 			{% endif %}
 
 			{% if post.data.tags %}
