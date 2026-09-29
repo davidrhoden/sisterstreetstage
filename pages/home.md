@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-title: "Sister Street Fest: Live Music in New Orleans - October 21, 2026"
+title: "Sister Street Fest: Live Music in New Orleans - October 17, 2026"
 date: 2026-10-17T00:00:00.000Z
 image: https://sisterstreetstage.com/static/img/sister-street-fest-oct-17-2026/poster-sister-street-stage-oct-17-2026.jpeg
 permalink: /
@@ -13,7 +13,13 @@ eleventyNavigation:
 
 -----
 
-# Musical Acts
+# Sister Street Fest 2026
+
+October 17, 2026
+818 Sister Street
+New Orleans, Louisiana
+
+## Musical Acts
 
 [The Junior League](https://thejuniorleague.bandcamp.com/)
 Side Yard
@@ -24,3 +30,5 @@ Side Yard
 -----
 
 Suggested Donation $20.
+
+Bring coolers and something to sit on.
