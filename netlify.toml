@@ -2,6 +2,9 @@
   publish = "_site"
   command = "npm run build"
 
+[build.environment]
+  GIT_LFS_ENABLED = "true"
+
 # REDIRECT and HEADERS examples
 
 # Redirect rule example
