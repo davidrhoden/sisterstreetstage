@@ -8,11 +8,11 @@ pagination:
     - nav
     - post
     - posts
-permalink: /tags/{{ tag }}/
+permalink: /tags/{{ tag | slugify }}/
 layout: layouts/base.njk
-renderData:
+eleventyComputed:
   title: "Tagged “{{ tag }}”"
-  metaDescription: "All posts from the Blog tagged with “{{ tag }}”"
+  metaDescription: "Posts from the Sister Street Stage site tagged with “{{ tag }}”"
 ---
 
 <h1>Tagged “{{ tag }}”</h1>
