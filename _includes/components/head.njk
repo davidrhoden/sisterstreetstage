@@ -2,10 +2,58 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ title or metadata.title }}</title>
-  <meta name="description" content="{{ metaDescription or metadata.description }}">
-  <meta property="og:image" content="https://sisterstreetstage.com/static/img/Sister-Street-Fest-2023.png" />
+  <meta name="description" content="{{ metaDescription or excerpt or summary or description or metadata.description }}">
+  <link rel="canonical" href="{{ metadata.url }}{{ page.url }}">
+  <meta property="og:type" content="{{ 'article' if section == 'post' else 'website' }}">
+  <meta property="og:url" content="{{ metadata.url }}{{ page.url }}">
+  <meta property="og:site_name" content="{{ metadata.title }}">
   <meta property="og:title" content="{{ title or metadata.title }}" />
-  <meta name="og:description" content="{{ metaDescription or metadata.description }}">
+  <meta property="og:description" content="{{ metaDescription or excerpt or summary or description or metadata.description }}">
+  {% if image and image.startsWith("http") %}
+  <meta property="og:image" content="{{ image }}" />
+  {% elif image and image.startsWith("/") %}
+  <meta property="og:image" content="{{ metadata.url }}{{ image }}" />
+  {% elif image %}
+  <meta property="og:image" content="{{ metadata.url }}/static/img/{{ image }}" />
+  {% else %}
+  <meta property="og:image" content="{{ metadata.url }}/static/img/Sister-Street-Fest-2023.png" />
+  {% endif %}
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ title or metadata.title }}">
+  <meta name="twitter:description" content="{{ metaDescription or excerpt or summary or description or metadata.description }}">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicVenue",
+    "name": {{ metadata.title | dump | safe }},
+    "url": {{ metadata.url | dump | safe }},
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "819 Sister Street",
+      "addressLocality": "New Orleans",
+      "addressRegion": "LA",
+      "addressCountry": "US"
+    }
+  }
+  </script>
+  {% if section == "post" %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": {{ title | dump | safe }},
+    "startDate": {{ page.date.toISOString() | dump | safe }},
+    "url": "{{ metadata.url }}{{ page.url }}",
+    "description": {{ (metaDescription or excerpt or summary or description or metadata.description) | dump | safe }},
+    "image": "{% if image and image.startsWith("http") %}{{ image }}{% elif image and image.startsWith("/") %}{{ metadata.url }}{{ image }}{% elif image %}{{ metadata.url }}/static/img/{{ image }}{% else %}{{ metadata.url }}/static/img/Sister-Street-Fest-2023.png{% endif %}",
+    "location": {
+      "@type": "MusicVenue",
+      "name": "Sister Street Stage",
+      "address": "819 Sister Street, New Orleans, LA"
+    }
+  }
+  </script>
+  {% endif %}
    {% set css %}
     {% include "assets/css/inline.css" %}
   {% endset %}

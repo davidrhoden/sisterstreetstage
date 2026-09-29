@@ -16,7 +16,7 @@ eleventyNavigation:
 # Sister Street Fest 2026
 
 October 17, 2026
-818 Sister Street
+819 Sister Street
 New Orleans, Louisiana
 
 ## Musical Acts
