@@ -9,9 +9,9 @@ eleventyNavigation:
   order: 0
 ---
 
-![October 21, 2026 on the Sister Street Stage](/static/img/sister-street-fest-oct-17-2026/poster-sister-street-stage-oct-17-2026.jpeg)
+![Sister Street Fest 2026 lineup and preview](/static/img/sister-street-fest-oct-17-2026/sister-street-fest-preview-oct-17-2026.svg)
 
------
+----
 
 # Sister Street Fest 2026
 
@@ -19,16 +19,6 @@ October 17, 2026
 819 Sister Street
 New Orleans, Louisiana
 
-## Musical Acts
-
-[The Junior League](https://thejuniorleague.bandcamp.com/)
-Side Yard
-[Warren Byrom](https://warrenbyrom.bandcamp.com/)
-[LAAB](https://www.lukespurrallen.com/)
-[Semi-Automatic Transmission](https://www.facebook.com/watch/?v=893594643792276)
-
 -----
 
-Suggested Donation $20.
-
-Bring coolers and something to sit on.
+more to come soon!
