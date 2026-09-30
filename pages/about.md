@@ -1,6 +1,7 @@
 ---
 permalink: /about/index.html
-title: "About Sister Street Stage"
+title: "About Sister Street Stage: New Orleans, Louisiana"
+summary: Sister Street Stage is located at 818 Suster Street in New Orleans, Louisiana.
 eleventyNavigation:
   key: About
   order: 1
