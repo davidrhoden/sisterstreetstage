@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 1250 420" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+<svg width="100%" height="100%" viewBox="0 0 1250 420" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
     <g transform="matrix(1,0,0,1,1,-2.5)">
         <text x="415.516px" y="82.202px" style="font-family:'BernardMT-Condensed', 'Bernard MT Condensed', serif;font-stretch:condensed;font-size:50px;fill:white;">Sister Str<tspan x="578.822px 601.209px " y="82.202px 82.202px ">ee</tspan>t Fest 2026</text>
         <text x="436.988px" y="182.202px" style="font-family:'BernardMT-Condensed', 'Bernard MT Condensed', serif;font-stretch:condensed;font-size:50px;fill:white;">The Self-Help T<tspan x="723.512px 747.462px " y="182.202px 182.202px ">ap</tspan>es</text>
@@ -9,5 +9,4 @@
         <text x="550.318px" y="332.202px" style="font-family:'BernardMT-Condensed', 'Bernard MT Condensed', serif;font-stretch:condensed;font-size:50px;fill:white;">L.A.A.B.</text>
         <text x="343.69px" y="382.202px" style="font-family:'BernardMT-Condensed', 'Bernard MT Condensed', serif;font-stretch:condensed;font-size:50px;fill:white;">Semi-Automatic Transmission</text>
     </g>
-    <path d="M1250,93L0,93" style="fill:none;stroke:black;stroke-width:1px;"/>
 </svg>

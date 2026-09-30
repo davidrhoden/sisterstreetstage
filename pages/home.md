@@ -13,6 +13,8 @@ eleventyNavigation:
 
 ----
 
+<div style="text-align: center;">
+
 # Sister Street Fest 2026
 
 October 17, 2026
@@ -22,3 +24,5 @@ New Orleans, Louisiana
 -----
 
 more to come soon!
+
+</div>
