@@ -3,7 +3,7 @@ title: Stoo Odom, Souvenaires, Gina Phillips and Friends, Regenerator, Malevitus
 date: 2020-11-14T14:00:00.000Z
 summary: Gina put on a socially-distanced live music show.
 excerpt: Gina put on a socially-distanced live music show.
-image: holy-cross-music-nov-14-2020/gina-phillips-and-friends-nov-14-2020.jpg
+image: /static/img/holy-cross-music-nov-14-2020/gina-phillips-and-friends-nov-14-2020.jpg
 tags:
   - post 
   - Malevitus

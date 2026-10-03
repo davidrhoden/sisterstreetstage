@@ -22,11 +22,11 @@ eleventyNavigation:
 
 ![Gina and band on stage](/static/img/gina-band-on-stage.jpg?nf_resize=fit&w=1000 "Gina and band on stage")
 
-![Golden Ray on stage](/static/img/golden-ray-03-apr-25-2021.jpg?nf_resize=fit&w=1000 "Golden Ray on stage")
+![Golden Ray on stage](/static/img/sister-street-state-apr-25-2021/sister-street-state-apr-25-2021/sister-street-state-apr-25-2021/golden-ray-03-apr-25-2021.jpg?nf_resize=fit&w=1000 "Golden Ray on stage")
 
-![Golden Ray on stage](/static/img/golden-ray-04-apr-25-2021.jpg?nf_resize=fit&w=1000 "Golden Ray on stage")
+![Golden Ray on stage](/static/img/sister-street-state-apr-25-2021/sister-street-state-apr-25-2021/golden-ray-04-apr-25-2021.jpg?nf_resize=fit&w=1000 "Golden Ray on stage")
 
-![Lo Amps on stage](/static/img/lo-amps-katie-apr-25-2021.jpg?nf_resize=fit&w=1000 "Lo Amps on stage")
+![Lo Amps on stage](/static/img/sister-street-state-apr-25-2021/lo-amps-katie-apr-25-2021.jpg?nf_resize=fit&w=1000 "Lo Amps on stage")
 
 ![A crowd on the ground, Sister Street Stage](/static/img/holy-cross-music-nov-14-2020/sss-panorama-2.jpg?nf_resize=fit&w=1000 "A crowd on the ground, Sister Street Stage")
 
