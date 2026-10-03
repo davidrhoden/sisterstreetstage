@@ -22,9 +22,9 @@ eleventyNavigation:
 
 ![Gina and band on stage](/static/img/gina-band-on-stage.jpg?nf_resize=fit&w=1000 "Gina and band on stage")
 
-![Golden Ray on stage](/static/img/sister-street-state-apr-25-2021/sister-street-state-apr-25-2021/sister-street-state-apr-25-2021/golden-ray-03-apr-25-2021.jpg?nf_resize=fit&w=1000 "Golden Ray on stage")
+![Golden Ray on stage](/static/img/sister-street-state-apr-25-2021/golden-ray-03-apr-25-2021.jpg?nf_resize=fit&w=1000 "Golden Ray on stage")
 
-![Golden Ray on stage](/static/img/sister-street-state-apr-25-2021/sister-street-state-apr-25-2021/golden-ray-04-apr-25-2021.jpg?nf_resize=fit&w=1000 "Golden Ray on stage")
+![Golden Ray on stage](/static/img/sister-street-state-apr-25-2021/golden-ray-04-apr-25-2021.jpg?nf_resize=fit&w=1000 "Golden Ray on stage")
 
 ![Lo Amps on stage](/static/img/sister-street-state-apr-25-2021/lo-amps-katie-apr-25-2021.jpg?nf_resize=fit&w=1000 "Lo Amps on stage")
 

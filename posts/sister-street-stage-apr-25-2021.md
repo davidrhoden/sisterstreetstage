@@ -2,7 +2,7 @@
 title: George Wilde, Golden Ray, and Lo Amps.
 date: 2021-04-25T17:00:00.000Z
 category: timeline
-image: /static/img/SisterStreetStage-Apr-25-2021.png
+image: /static/img/sister-street-state-apr-25-2021/SisterStreetStage-Apr-25-2021.png
 tags:
   - post 
   - George Wilde
