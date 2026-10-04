@@ -1,15 +1,15 @@
 ---
 layout: layouts/home.njk
-title: "Sister Street Fest: Live Music in New Orleans - October 17, 2026"
+title: "Sister Street Fest - Live Music in New Orleans - October 17, 2026"
 date: 2026-10-17T00:00:00.000Z
-image: /static/img/sister-street-fest-oct-17-2026/sister-street-fest-poster-oct-17-2026.jpeg
+image: /static/img/sister-street-fest-oct-17-2026/sister-street-fest-poster-oct-17-2026.png
 permalink: /
 eleventyNavigation:
   key: Home
   order: 0
 ---
 
-![October 21, 2026 on the Sister Street Stage](/static/img/sister-street-fest-oct-17-2026/sister-street-fest-poster-oct-17-2026.jpeg)
+![October 17, 2026 on the Sister Street Stage](/static/img/sister-street-fest-oct-17-2026/sister-street-fest-poster-oct-17-2026.png)
 
 -----
 
