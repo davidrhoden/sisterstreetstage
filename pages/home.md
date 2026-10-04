@@ -9,7 +9,7 @@ eleventyNavigation:
   order: 0
 ---
 
-![October 17, 2026 on the Sister Street Stage](/static/img/sister-street-fest-oct-17-2026/sister-street-fest-poster-oct-17-2026.jpeg)
+![October 17, 2026 on the Sister Street Stage](/static/img/sister-street-fest-oct-17-2026/poster-sister-street-fest-2-oct-17-2026.png)
 
 -----
 
