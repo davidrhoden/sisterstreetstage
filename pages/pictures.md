@@ -33,3 +33,7 @@ eleventyNavigation:
 ---
 
 If you have pictures from an event at Sister Street Stage we can post, please [email them](mailto:hello@happeninginteractive.com) to us (if we can have permission to post them here, with a credit to you.) Also, if you use Instagram, please post them with the hashtag [#SisterStreetStage](https://www.instagram.com/explore/tags/sisterstreetstage). We'd love to see them.
+
+![aerial photo of the industrial canal with the location of Sister Street marked with a yellow arrow.](/static/img/miscellaneous/industrial-canal-aerial-view.jpg)
+
+Aerial photo of the industrial canal with the location of Sister Street Stage indicated with an arrow.
