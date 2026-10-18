@@ -16,6 +16,8 @@ eleventyNavigation:
 
 ![Sister Street Fest October 17, 2026 photo by Ann Schexnyder](/static/img/sister-street-fest-oct-17-2026/ssf-ann-s-4-oct-17-2026.jpg)
 
+Photos by Ann Schexnyder.
+
 -----
 
 ## Sister Street Fest April 25, 2021
