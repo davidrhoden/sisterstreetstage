@@ -6,7 +6,7 @@ eleventyNavigation:
   order: 5
 ---
 
-** Sister Street Fest October 17, 2026
+## Sister Street Fest October 17, 2026
 
 ![Sister Street Fest October 17, 2026 photo by Ann Schexnyder](/static/img/sister-street-fest-oct-17-2026/ssf-ann-s-1-oct-17-2026.jpg)
 
@@ -18,7 +18,7 @@ eleventyNavigation:
 
 -----
 
-** Sister Street Fest April 25, 2021
+## Sister Street Fest April 25, 2021
 
 ![Gina and band on stage](/static/img/gina-band-on-stage.jpg?nf_resize=fit&w=1000 "Gina and band on stage")
 
@@ -30,7 +30,7 @@ eleventyNavigation:
 
 -----
 
-** Sister Street Fest November 14, 2020
+## Sister Street Fest November 14, 2020
 
 ![A crowd on the ground, Sister Street Stage](/static/img/crowd-on-grounds.jpg?nf_resize=fit&w=1000 "A crowd on the ground, Sister Street Stage")
 
