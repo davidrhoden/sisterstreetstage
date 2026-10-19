@@ -1,6 +1,8 @@
 ---
 permalink: /pictures/index.html
 title: "Sister Street Stage - New Orleans, Louisiana - Pictures"
+metaDescription: Photos of shows on the Sister Street Stage in New Orleans.
+image: /static/img/sister-street-fest-oct-17-2026/ssf-ann-s-1-oct-17-2026.jpg
 eleventyNavigation:
   key: Pictures
   order: 5

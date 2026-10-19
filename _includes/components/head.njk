@@ -16,7 +16,7 @@
   {% elif image %}
   <meta property="og:image" content="{{ metadata.url }}/static/img/{{ image }}" />
   {% else %}
-  <meta property="og:image" content="{{ metadata.url }}/static/img/Sister-Street-Fest-2023.png" />
+  <meta property="og:image" content="{{ metadata.url }}/static/img/sister-street-fest-oct-17-2026/sister-street-fest-poster-oct-17-2026.png" />
   {% endif %}
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ title or metadata.title }}">
@@ -45,7 +45,7 @@
     "startDate": {{ page.date.toISOString() | dump | safe }},
     "url": "{{ metadata.url }}{{ page.url }}",
     "description": {{ (metaDescription or excerpt or summary or description or metadata.description) | dump | safe }},
-    "image": "{% if image and image.startsWith("http") %}{{ image }}{% elif image and image.startsWith("/") %}{{ metadata.url }}{{ image }}{% elif image %}{{ metadata.url }}/static/img/{{ image }}{% else %}{{ metadata.url }}/static/img/Sister-Street-Fest-2023.png{% endif %}",
+    "image": "{% if image and image.startsWith("http") %}{{ image }}{% elif image and image.startsWith("/") %}{{ metadata.url }}{{ image }}{% elif image %}{{ metadata.url }}/static/img/{{ image }}{% else %}{{ metadata.url }}/static/img/sister-street-fest-oct-17-2026/sister-street-fest-poster-oct-17-2026.png{% endif %}",
     "location": {
       "@type": "MusicVenue",
       "name": "Sister Street Stage",
